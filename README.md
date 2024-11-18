@@ -1,4 +1,4 @@
-[![MasterHead](https://drive.google.com/file/d/1AFYd-FR6NxhUg4wKF9dVMhzpmaM4e6VV/view?usp=sharing)](https://rishavchanda.io)
+[![MasterHead](https://drive.google.com/file/d/1AFYd-FR6NxhUg4wKF9dVMhzpmaM4e6VV/view?usp=sharing)]
 
 <h1 align="center">Hi 👋, I'm Muhammad Osama</h1>
 <h3 align="center">A passionate software engineer & mobile developer from Egypt</h3>
