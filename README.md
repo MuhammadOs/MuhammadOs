@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muhammad Osama</h1>
 <h3 align="center">A passionate software engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammados&label=Profile%20views&color=0e75b6&style=flat" alt="muhammados" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammados" alt="muhammados" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on [e7sebly](https://github.com/MuhammadOs/e7sebly)
 
@@ -17,9 +14,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/dev. muhammad osama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev. muhammad osama" height="30" width="40" /></a>
+<a href="https://twitter.com/mohamed230702" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohamed230702" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/muhammad osama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad osama" height="30" width="40" /></a>
 <a href="https://fb.com/muhammad osama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad osama" height="30" width="40" /></a>
+<a href="https://instagram.com/muhammadosama237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhammadosama237" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/muhammadosama-l7s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="muhammadosama-l7s" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
