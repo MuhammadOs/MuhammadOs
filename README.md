@@ -1,7 +1,10 @@
-<h1 align="center">Hi 👋, I'm Muhammad Osama</h1>
-<h3 align="center">A passionate software engineer</h3>
+[![MasterHead](https://drive.google.com/file/d/1AFYd-FR6NxhUg4wKF9dVMhzpmaM4e6VV/view?usp=sharing)](https://rishavchanda.io)
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
+<h1 align="center">Hi 👋, I'm Muhammad Osama</h1>
+<h3 align="center">A passionate software engineer & mobile developer from Egypt</h3>
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/9e5055da2ee6c899aab9403ceb7d0dc3.gif"/>
+
 
 - 🔭 I’m currently working on [e7sebly](https://github.com/MuhammadOs/e7sebly)
 
