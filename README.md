@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **muhammad2372002@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1RBQ9DoAeVMVTRDjHUjA2IHKRaMR8GhQ3/view?usp=sharing](https://drive.google.com/file/d/1RBQ9DoAeVMVTRDjHUjA2IHKRaMR8GhQ3/view?usp=sharing)
+- 💬 Ask me about **Flutter, Android or Angular**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
