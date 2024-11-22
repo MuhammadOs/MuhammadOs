@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://twitter.com/mohamed230702" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohamed230702" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/muhammad-osama-356a511bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad osama" height="30" width="40" /></a>
-<a href="https://fb.com/muhammad osama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad osama" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100008887219374" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad osama" height="30" width="40" /></a>
 <a href="https://instagram.com/muhammadosama237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhammadosama237" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/muhammadosama-l7s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="muhammadosama-l7s" height="30" width="40" /></a>
 </p>
