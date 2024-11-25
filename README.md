@@ -52,7 +52,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MuhammadOs&rank_icon=percentile&show_icons=true&theme=github_dark&border_radius=8" alt="MuhammadOs's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AhmedSamiir20&theme=github-dark-blue" alt="Streak Stats" width="50%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MuhammadOs&theme=github-dark-blue" alt="Streak Stats" width="50%" />
 </p>
 
 ---
