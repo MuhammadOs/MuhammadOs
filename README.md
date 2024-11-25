@@ -12,7 +12,7 @@
 🔭 &nbsp;I’m currently working on [e7sebly](https://github.com/MuhammadOs/e7sebly) .\
 🌱 &nbsp;I’m currently learning **Angular** .\
 💬 &nbsp;Feel free to reach out to me or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at **muhammad2372002@gmail.com** I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at **muhammad2372002@gmail.com** I'll try to respond ASAP.\
 📄 &nbsp;Please have a look at my [cv]([https://www.adityavsingh.com/resume.html](https://drive.google.com/file/d/1RBQ9DoAeVMVTRDjHUjA2IHKRaMR8GhQ3/view?usp=sharing)) for more details about me.
 <hr>
 
