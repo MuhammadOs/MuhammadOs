@@ -1,49 +1,57 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=600&color=F7F7F7&size=35&center=true&vCenter=true&weight=600&&duration=4000&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Muhammad+Osama!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=600&color=F7F7F7&size=35&center=true&vCenter=true&weight=600&duration=4000&width=500&height=70&lines=Hi+There!+👋;+I'm+Muhammad+Osama!;" />
 </h1>
-<h3 align="center">A passionate software engineer and mobile developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MuhammadOs&label=Profile%20views&color=0e75b6&style=flat" alt="MuhammadOs" /> </p>
+<h3 align="center">A passionate Software Engineer and Mobile Developer</h3>
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=MuhammadOs&label=Profile%20views&color=0e75b6&style=flat" alt="MuhammadOs" />
+</p>
 
 <img align="right" alt="Coding" width="220" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/9e5055da2ee6c899aab9403ceb7d0dc3.gif" />
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 About Me
 
-🔭 &nbsp;I’m currently working on [e7sebly](https://github.com/MuhammadOs/e7sebly) .\
-🌱 &nbsp;I’m currently learning **Angular** .\
-💬 &nbsp;Feel free to reach out to me or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at **muhammad2372002@gmail.com** I'll try to respond ASAP.\
-📄 &nbsp;Please have a look at my [cv]([https://www.adityavsingh.com/resume.html](https://drive.google.com/file/d/1RBQ9DoAeVMVTRDjHUjA2IHKRaMR8GhQ3/view?usp=sharing)) for more details about me.
-<hr>
+- 🔭 I’m currently working on [e7sebly](https://github.com/MuhammadOs/e7sebly).  
+- 🌱 I’m currently learning **Angular**.  
+- 💬 Feel free to reach out for discussions or queries.  
+- ✉️ You can contact me at **muhammad2372002@gmail.com** — I’ll respond ASAP.  
+- 📄 Check out my [CV](https://drive.google.com/file/d/1RBQ9DoAeVMVTRDjHUjA2IHKRaMR8GhQ3/view?usp=sharing) for more details about my work.  
 
-### 🤝🏻 &nbsp;Connect with Me
+---
 
-<p align="left">
-<a href="https://twitter.com/mohamed230702" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohamed230702" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muhammad-osama-356a511bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad osama" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100008887219374" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad osama" height="30" width="40" /></a>
-<a href="https://instagram.com/muhammadosama237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhammadosama237" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/muhammadosama-l7s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="muhammadosama-l7s" height="30" width="40" /></a>
+### 🤝🏻 Connect with Me
+
+<p align="center">
+<a href="https://twitter.com/mohamed230702" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"></a>
+<a href="https://linkedin.com/in/muhammad-osama-356a511bb" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.facebook.com/profile.php?id=100008887219374" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"></a>
+<a href="https://instagram.com/muhammadosama237" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.youtube.com/c/muhammadosama-l7s" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"></a>
 </p>
-<hr>
 
-### 🛠 &nbsp;Tech Stack
+---
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,kotlin,firebase,androidstudio,ts,html,css,angular,bootstrap,cpp,c,c#,cs,cpp,py,discord,matlab,ps,figma,github,git,sqlite)](https://skillicons.dev)
+### 🛠 Tech Stack
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,firebase,androidstudio,ts,html,css,angular,bootstrap,cpp,c,c#,py,discord,matlab,ps,figma,github,git,sqlite" />
+</p>
 
-<hr>
+---
 
+### 🐍 My Contributions
 
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- GitHub Stats ------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg" alt="Snake animation Contribution Graph" />
+</p>
 
-### 🐍 &nbsp;My Contributions
+---
 
-![Snake animation Contribution Graph](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
-<hr>
+### 📊 GitHub Stats
 
-### ♾️ &nbsp;Github stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadOs&rank_icon=percentile&show_icons=true&theme=github_dark&border_radius=8" alt="MuhammadOs's GitHub Stats" />
+</p>
 
- ![](https://github-readme-stats.vercel.app/api?username=MuhammadOs\&rank_icon=percentile&show_icons=true&theme=github_dark&border_radius=8)  
+---
