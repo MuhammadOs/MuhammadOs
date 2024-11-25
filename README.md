@@ -27,7 +27,7 @@
 <a href="https://linkedin.com/in/muhammad-osama-356a511bb" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.facebook.com/profile.php?id=100008887219374" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://instagram.com/muhammadosama237" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://www.youtube.com/c/muhammadosama-l7s" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"></a>
+<a href="https://www.youtube.com/@MuhammadOsama-l7s" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"></a>
 </p>
 
 ---
