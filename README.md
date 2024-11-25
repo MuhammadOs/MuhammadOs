@@ -29,7 +29,7 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,kotlin,figma,firebase,ts,html,css,androidstudio,bootstrap,c,c#,cs,cpp,py,discord,matlab,ps,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,kotlin,firebase,androidstudio,ts,html,css,angular,bootstrap,cpp,c,c#,cs,cpp,py,discord,matlab,ps,figma,github,git,sqlite)](https://skillicons.dev)
 
 
 <hr>
