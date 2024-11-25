@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MuhammadOs&label=Profile%20views&color=0e75b6&style=flat" alt="MuhammadOs" /> </p>
 
-<img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/9e5055da2ee6c899aab9403ceb7d0dc3.gif"/>
+<img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/9e5055da2ee6c899aab9403ceb7d0dc3.gif" style="border-radius: 10px;" />
 
 ### 👨🏻‍💻 &nbsp;About Me
 
