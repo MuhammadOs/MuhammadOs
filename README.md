@@ -12,8 +12,8 @@
 
 ### 👨🏻‍💻 About Me
 
-- 🔭 I’m currently working on [e7sebly](https://github.com/MuhammadOs/e7sebly).  
-- 🌱 I’m currently learning **Angular** & **.Net**.  
+- 🔭 I’m currently working on [mens](https://github.com/MuhammadOs/mens).  
+- 🌱 I’m currently learning **Angular** & **.Net**.
 - 💬 Feel free to reach out for discussions or queries.  
 - ✉️ You can contact me at **muhammad2372002@gmail.com** — I’ll respond ASAP.  
 - 📄 Check out my [CV](https://drive.google.com/file/d/1RBQ9DoAeVMVTRDjHUjA2IHKRaMR8GhQ3/view?usp=sharing) for more details about my work.  
