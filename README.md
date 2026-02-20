@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning **Angular** & **.Net**.
 - 💬 Feel free to reach out for discussions or queries.  
 - ✉️ You can contact me at **muhammad2372002@gmail.com** — I’ll respond ASAP.  
-- 📄 Check out my [CV](https://drive.google.com/file/d/1WYVOjMPPxqx3Sv54rAar9taSHwFSqBX_/view?usp=sharing) for more details about my work.
+- 📄 Check out my [CV](https://docs.google.com/document/d/16Id1Cfefp6UvRqlbuM8jDKx7h5DezUzSlMYALBQnc0s/edit?usp=sharing) for more details about my work.
 ---
 
 ### 🤝🏻 Connect with Me
