@@ -45,13 +45,5 @@
   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg" alt="Snake animation Contribution Graph" />
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadOs&rank_icon=percentile&show_icons=true&theme=github_dark&border_radius=8" alt="MuhammadOs's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MuhammadOs&theme=github-dark-blue" alt="Streak Stats" width="50%" />
-</p>
 
 ---
