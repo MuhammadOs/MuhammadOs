@@ -13,7 +13,7 @@
 ### 👨🏻‍💻 About Me
 
 - 🔭 I’m currently working on [mens](https://github.com/MuhammadOs/mens).  
-- 🌱 I’m currently learning **Angular** & **.Net**.
+- 🌱 I’m currently learning **ReactJS** & **.Net**.
 - 💬 Feel free to reach out for discussions or queries.  
 - ✉️ You can contact me at **muhammad2372002@gmail.com** — I’ll respond ASAP.  
 - 📄 Check out my [CV](https://drive.google.com/file/d/1m_tOapOLPIcZ4B1uxltdDs7EBA5zK9N3/view?usp=sharing) for more details about my work.
