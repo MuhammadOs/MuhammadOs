@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=600&color=F7F7F7&size=35&center=true&vCenter=true&weight=600&duration=4000&width=500&height=70&lines=Hi+There!+👋;+I'm+Muhammad+Osama!;" />
 </h1>
 
-<h3 align="center">A passionate Software Engineer and Mobile Developer</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 
 <p> 
   <img src="https://komarev.com/ghpvc/?username=MuhammadOs&label=Profile%20views&color=0e75b6&style=flat" alt="MuhammadOs" />
