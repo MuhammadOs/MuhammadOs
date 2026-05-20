@@ -49,10 +49,3 @@
 <a href="https://www.youtube.com/@MuhammadOsama-l7s" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"></a>
 </p>
 
----
-
-### 🐍 My Contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MuhammadOs/MuhammadOs/output/github-contribution-grid-snake-dark.svg" alt="Snake animation Contribution Graph" />
-</p>
