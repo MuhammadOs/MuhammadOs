@@ -22,7 +22,6 @@
 ### 🤝🏻 Connect with Me
 
 <p align="center">
-<a href="https://twitter.com/mohamed230702" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"></a>
 <a href="https://linkedin.com/in/muhammad-osama-356a511bb" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.facebook.com/profile.php?id=100008887219374" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://instagram.com/muhammadosama237" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
@@ -34,7 +33,7 @@
 ### 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,firebase,androidstudio,ts,html,css,angular,bootstrap,cpp,csharp" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,firebase,androidstudio,ts,html,css,angular,bootstrap,cpp,csharp,nodejs,express,mongodb" />
 </p>
 
 ---
