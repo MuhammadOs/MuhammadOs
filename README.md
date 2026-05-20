@@ -1,10 +1,10 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=600&color=F7F7F7&size=35&center=true&vCenter=true&weight=600&duration=4000&width=500&height=70&lines=Hi+There!+👋;+I'm+Muhammad+Osama!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=600&color=F7F7F7&size=35&center=true&vCenter=true&weight=600&duration=4000&width=600&height=70&lines=Hi+There!+👋;+I'm+Muhammad+Osama+(Osos)!;" />
 </h1>
 
 <h3 align="center">A passionate Software Engineer</h3>
 
-<p> 
+<p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=MuhammadOs&label=Profile%20views&color=0e75b6&style=flat" alt="MuhammadOs" />
 </p>
 
@@ -12,11 +12,32 @@
 
 ### 👨🏻‍💻 About Me
 
-- 🔭 I’m currently working on [mens](https://github.com/MuhammadOs/mens).  
-- 🌱 I’m currently learning **ReactJS** & **.Net**.
-- 💬 Feel free to reach out for discussions or queries.  
+- 🎓 I hold a **B.Sc. in Computer Science and Artificial Intelligence** from Fayoum University.
+- 🔭 I’m currently working on **[mens](https://github.com/MuhammadOs/mens)**, a full e-commerce application available on Google Play.  
+- 🌱 I’m currently transitioning deeper into **Full-Stack Development**, actively mastering **Node.js, Express, and MongoDB**.
+- 🏗️ I specialize in **Clean Architecture (SOLID)** and scalable state management using **BLoC & Riverpod** within modern IDEs like VS Code and Cursor.
+- 🤝 I'm passionate about sharing knowledge and actively mentor aspiring developers in coding.
+- 💬 Feel free to reach out for discussions, architectural queries, or collaborations.  
 - ✉️ You can contact me at **muhammad2372002@gmail.com** — I’ll respond ASAP.  
 - 📄 Check out my [CV](https://drive.google.com/file/d/1m_tOapOLPIcZ4B1uxltdDs7EBA5zK9N3/view?usp=sharing) for more details about my work.
+
+---
+
+### 🚀 Featured Projects
+
+* **[E7sebly](link-to-repo-or-play-store)**: A multi-functional utility app available on Google Play. Features modular architecture, integrating device sensors, QR scanning, and dynamic calculators.
+* **[CENIFY](link-to-repo)**: A comprehensive movie discovery platform built with React and TanStack Query for optimal data fetching and caching.
+* **[Expense Tracker](link-to-repo)**: A full-stack MERN application built from scratch for streamlined personal finance management.
+
+---
+
+### 🛠 Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,firebase,ts,js,html,css,angular,react,bootstrap,nodejs,express,mongodb" /><br><br>
+  <img src="https://skillicons.dev/icons?i=vscode,vercel,figma,postman,git,github" />
+</p>
+
 ---
 
 ### 🤝🏻 Connect with Me
@@ -30,19 +51,8 @@
 
 ---
 
-### 🛠 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,firebase,ts,js,html,css,angular,react,bootstrap,nodejs,express,mongodb" />
-</p>
-
----
-
 ### 🐍 My Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg" alt="Snake animation Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/MuhammadOs/MuhammadOs/output/github-contribution-grid-snake-dark.svg" alt="Snake animation Contribution Graph" />
 </p>
-
-
----
