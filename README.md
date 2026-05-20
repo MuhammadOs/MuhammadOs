@@ -33,7 +33,7 @@
 ### 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,firebase,androidstudio,ts,js,html,css,angular,bootstrap,cpp,csharp,node.js,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,firebase,androidstudio,ts,js,html,css,angular,react,bootstrap,nodejs,express,mongodb" />
 </p>
 
 ---
