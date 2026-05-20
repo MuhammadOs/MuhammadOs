@@ -12,22 +12,22 @@
 
 ### 👨🏻‍💻 About Me
 
-- 🎓 I hold a **B.Sc. in Computer Science and Artificial Intelligence** from Fayoum University.
+- 🎓 I hold a **B.Sc. in Computer Science and Artificial Intelligence**
 - 🔭 I’m currently working on **[mens](https://github.com/MuhammadOs/mens)**, a full e-commerce application available on Google Play.  
 - 🌱 I’m currently transitioning deeper into **Full-Stack Development**, actively mastering **Node.js, Express, and MongoDB**.
 - 🏗️ I specialize in **Clean Architecture (SOLID)** and scalable state management using **BLoC & Riverpod** within modern IDEs like VS Code and Cursor.
 - 🤝 I'm passionate about sharing knowledge and actively mentor aspiring developers in coding.
 - 💬 Feel free to reach out for discussions, architectural queries, or collaborations.  
 - ✉️ You can contact me at **muhammad2372002@gmail.com** — I’ll respond ASAP.  
-- 📄 Check out my [CV](https://drive.google.com/file/d/1m_tOapOLPIcZ4B1uxltdDs7EBA5zK9N3/view?usp=sharing) for more details about my work.
+- 📄 Check out my [CV](https://drive.google.com/file/d/15co82NrNiVp5x3ir9f8xiSyx0o9MK_qE/view?usp=sharing) for more details about my work.
 
 ---
 
 ### 🚀 Featured Projects
 
-* **[E7sebly](link-to-repo-or-play-store)**: A multi-functional utility app available on Google Play. Features modular architecture, integrating device sensors, QR scanning, and dynamic calculators.
-* **[CENIFY](link-to-repo)**: A comprehensive movie discovery platform built with React and TanStack Query for optimal data fetching and caching.
-* **[Expense Tracker](link-to-repo)**: A full-stack MERN application built from scratch for streamlined personal finance management.
+* **[E7sebly](https://github.com/MuhammadOs/e7sebly)**: A multi-functional utility app available on Google Play. Features modular architecture, QR scanning, and calculators.
+* **[CENIFY](https://github.com/MuhammadOs/Cinefy-React-Movies)**: A comprehensive movie discovery platform built with React and TanStack Query for optimal data fetching and caching.
+* **[Expense Tracker](https://github.com/MuhammadOs/ExpenseTracker)**: A full-stack MERN application built from scratch for streamlined personal finance management.
 
 ---
 
