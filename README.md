@@ -1,51 +1,63 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=600&color=F7F7F7&size=35&center=true&vCenter=true&weight=600&duration=4000&width=600&height=70&lines=Hi+There!+👋;+I'm+Muhammad+Osama+(Osos)!;" />
-</h1>
+<h1 align="center">Muhammad Osama ElShamikh</h1>
 
-<h3 align="center">A passionate Software Engineer</h3>
+<h3 align="center">Full-Stack Engineer · React · Next.js · Angular · Node.js</h3>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=MuhammadOs&label=Profile%20views&color=0e75b6&style=flat" alt="MuhammadOs" />
+<p align="center">
+  📍 Cairo, Egypt &nbsp;|&nbsp; 🌍 Open to remote opportunities
 </p>
 
-<img align="right" alt="Coding" width="220" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/9e5055da2ee6c899aab9403ceb7d0dc3.gif" />
+<p align="center">
+  <a href="https://mosamaelshamikh.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://linkedin.com/in/muhammad-osama-elshamikh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:muhammad2372002@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://drive.google.com/file/d/15co82NrNiVp5x3ir9f8xiSyx0o9MK_qE/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=readme&logoColor=white" alt="Resume"></a>
+</p>
+
+---
 
 ### 👨🏻‍💻 About Me
 
-- 🎓 I hold a **B.Sc. in Computer Science and Artificial Intelligence**
-- 🔭 I’m currently working on **[mens](https://github.com/MuhammadOs/mens)**, a full e-commerce application available on Google Play.  
-- 🌱 I’m currently transitioning deeper into **Full-Stack Development**, actively mastering **Node.js, Express, and MongoDB**.
-- 🏗️ I specialize in **Clean Architecture (SOLID)** and scalable state management using **BLoC & Riverpod** within modern IDEs like VS Code and Cursor.
-- 🤝 I'm passionate about sharing knowledge and actively mentor aspiring developers in coding.
-- 💬 Feel free to reach out for discussions, architectural queries, or collaborations.  
-- ✉️ You can contact me at **muhammad2372002@gmail.com** — I’ll respond ASAP.  
-- 📄 Check out my [CV](https://drive.google.com/file/d/15co82NrNiVp5x3ir9f8xiSyx0o9MK_qE/view?usp=sharing) for more details about my work.
+- 🚀 Full-stack engineer building data-heavy web applications with **TypeScript** across **React, Next.js, Angular, and Node.js**.
+- 🏢 Currently building a customer-facing SaaS platform with **Next.js, TypeScript, Tailwind CSS, and PostgreSQL**, plus **Python/Playwright** data pipelines covering extraction, OCR, entity resolution, and deduplication.
+- 🏛️ Previously shipped **Angular** systems for government court and library operations, including a Complaints System with public-facing interfaces and admin dashboards.
+- 🤖 Building AI-powered products such as **Streak.AI** (React, Node.js, MongoDB, Groq).
+- 🏗️ I care about **Clean Architecture (SOLID)**, reusable component design, and maintainable codebases. I also build cross-platform mobile apps with **Flutter** (BLoC, Riverpod).
+- 🎓 B.Sc. in **Computer Science and Artificial Intelligence**, 300+ algorithmic problems solved.
+- 🤝 I mentor aspiring developers and enjoy sharing what I learn.
+- ✉️ Reach me at **muhammad2372002@gmail.com** for roles, collaborations, or architecture discussions.
 
 ---
 
 ### 🚀 Featured Projects
 
-* **[E7sebly](https://github.com/MuhammadOs/e7sebly)**: A multi-functional utility app available on Google Play. Features modular architecture, QR scanning, and calculators.
-* **[CENIFY](https://github.com/MuhammadOs/Cinefy-React-Movies)**: A comprehensive movie discovery platform built with React and TanStack Query for optimal data fetching and caching.
-* **[Expense Tracker](https://github.com/MuhammadOs/ExpenseTracker)**: A full-stack MERN application built from scratch for streamlined personal finance management.
+| Project | What it is | Stack |
+| --- | --- | --- |
+| **[Streak.AI](https://github.com/MuhammadOs/streak.ai)** | AI-powered habit analytics platform with a custom Streak Recovery Engine. JWT auth via Axios interceptors, and a seeding utility that generates 90 days of data to stress-test the AI's context window. | React, Node.js, Express, MongoDB, Groq |
+| **[Expense Tracker](https://github.com/MuhammadOs/ExpenseTracker)** | SaaS-style personal finance dashboard: track spending, manage budgets and savings, analyze trends, and bulk import/export transactions. | MERN, Recharts, Tailwind CSS, Multer, XLSX |
+| **[CENIFY](https://github.com/MuhammadOs/Cinefy-React-Movies)** | High-performance movie discovery platform with cached data fetching and infinite scrolling. | Next.js, React, TanStack Query, Framer Motion |
+| **[mens](https://github.com/MuhammadOs/mens)** | Multi-role e-commerce mobile app (Seller, Moderator, Customer), available on Google Play. | Flutter, Riverpod |
 
 ---
 
-### 🛠 Tech Stack & Tools
+### 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,firebase,ts,js,html,css,angular,react,bootstrap,nodejs,express,mongodb" /><br><br>
-  <img src="https://skillicons.dev/icons?i=vscode,vercel,figma,postman,git,github" />
+  <b>Frontend</b><br>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,angular,tailwind,html,css,bootstrap" />
+</p>
+
+<p align="center">
+  <b>Backend & Data</b><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,py,mongodb,postgres,mysql,firebase" />
+</p>
+
+<p align="center">
+  <b>Tools & Mobile</b><br>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel,figma,flutter,dart" />
 </p>
 
 ---
 
-### 🤝🏻 Connect with Me
-
 <p align="center">
-<a href="https://linkedin.com/in/muhammad-osama-356a511bb" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.facebook.com/profile.php?id=100008887219374" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"></a>
-<a href="https://instagram.com/muhammadosama237" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://www.youtube.com/@MuhammadOsama-l7s" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"></a>
+  <i>Open to full-stack and frontend roles (React, Next.js, Angular, MERN/MEAN), especially remote. Let's talk.</i>
 </p>
-
